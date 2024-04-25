@@ -1,0 +1,1 @@
+terraform plan -var-file="Tfvars/dashboard.tfvars" -var-file="Tfvars/alert.tfvars" 

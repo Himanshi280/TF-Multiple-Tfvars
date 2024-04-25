@@ -1,0 +1,1 @@
+terraform apply -var-file="Tfvars/dashboard.tfvars" -var-file="Tfvars/alert.tfvars" -auto-approve
